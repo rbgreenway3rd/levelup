@@ -1,0 +1,28 @@
+[
+  {
+    "model": "levelupapi.game",
+    "pk": 1,
+    "fields": {
+      "id": 1,
+      "name": "Game 1",
+      "game_type_id": 1,
+      "description": "This is game 1",
+      "number_of_players": 2,
+      "gamer_id": 1,
+      "maker": "bryguy games"
+    }
+  },
+  {
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+      "id": 2,
+      "name": "Game 2",
+      "game_type_id": 2,
+      "description": "This is game 2",
+      "number_of_players": 4,
+      "gamer_id": 1,
+      "maker": "bryguy games"
+    }
+  }
+]

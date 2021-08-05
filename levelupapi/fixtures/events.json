@@ -1,0 +1,28 @@
+[
+  {
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+      "id": 1,
+      "host_id": 1,
+      "game_id": 1,
+      "date": null,
+      "time": null,
+      "title": "event 1",
+      "description": "this is an event for game 1"
+    }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+      "id": 2,
+      "host_id": 1,
+      "game_id": 2,
+      "date": null,
+      "time": null,
+      "title": "event 2",
+      "description": "this is an event for game 2"
+    }
+  }
+]
