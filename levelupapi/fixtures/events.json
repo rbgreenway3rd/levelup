@@ -6,8 +6,8 @@
       "id": 1,
       "host_id": 1,
       "game_id": 1,
-      "date": null,
-      "time": null,
+      "date": "2021-08-09",
+      "time": "10:30",
       "title": "event 1",
       "description": "this is an event for game 1"
     }
@@ -19,8 +19,8 @@
       "id": 2,
       "host_id": 1,
       "game_id": 2,
-      "date": null,
-      "time": null,
+      "date": "2021-08-09",
+      "time": "12:30",
       "title": "event 2",
       "description": "this is an event for game 2"
     }
